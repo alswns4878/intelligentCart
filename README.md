@@ -1,7 +1,11 @@
 # 🛒 Intelligent Cart (지능형 쇼핑카트)
 
 > **AI와 IoT 기술을 활용하여 사용자에게 편리한 쇼핑 경험을 제공하는 지능형 쇼핑카트 시스템입니다.**
-https://www.youtube.com/watch?v=x8mPJWkbGpA
+## 📺 프로젝트 데모 영상 (Demo Video)
+
+[![Intelligent Cart Demo](https://img.youtube.com/vi/x8mPJWkbGpA/0.jpg)](https://www.youtube.com/watch?v=x8mPJWkbGpA)
+
+*위 이미지를 클릭하면 유튜브 채널로 이동하여 시연 영상을 확인하실 수 있습니다.*
 ---
 
 ## 🌟 주요 기능 (Key Features)
