@@ -18,7 +18,7 @@
 ## 🛠 기술 스택 (Tech Stack)
 
 ### Hardware
-* Raspberry Pi / Arduino / Jetson Nano
+* Raspberry Pi / Arduino / Jetson Javier
 * Web cam, Motor, Barcode scanner
 
 ### Software & AI
